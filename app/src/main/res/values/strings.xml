@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheEpicCalculator</string>
+    <string name="Default">1</string>
+    <string name="area">Area</string>
+    <string name="currency">Currency</string>
+    <string name="length">Length</string>
+    <string name="speed">Speed</string>
+    <string name="temperature">Temperature</string>
+    <string name="volume">Volume</string>
+    <string name="weight">Weight</string>
+</resources>
